@@ -4,5 +4,3 @@
 ## Set up
 <br>
 pip install -r requirements.txt
-
-## For all needed package.
