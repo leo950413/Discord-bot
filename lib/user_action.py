@@ -31,7 +31,7 @@ def flag_validate(flag:str,id:str):
     
     8388608 (decimal)
     
-    Only solve first challenge
+    Only solve the first challenge
     
     110000000000000000000000 (binary)
     
